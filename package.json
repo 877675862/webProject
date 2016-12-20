@@ -1,0 +1,44 @@
+{
+  "name": "web_projects",
+  "version": "1.0.0",
+  "description": "web projects.",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/877675862/webProject.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "877675862.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/877675862/webProject/issues"
+  },
+  "homepage": "https://github.com/877675862/webProject#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-add": "0.0.2",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-data": "^1.2.1",
+    "gulp-footer": "^1.0.5",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-json-editor": "^2.2.1",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-collector": "^1.0.5",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-template": "^4.0.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-webpack": "^1.5.0"
+  }
+}
